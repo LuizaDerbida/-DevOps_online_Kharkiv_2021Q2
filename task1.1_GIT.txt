@@ -1,0 +1,32 @@
+f819d1c HEAD@{0}: commit: coom
+89680c6 HEAD@{1}: commit (merge): coom
+74e6b26 HEAD@{2}: checkout: moving from development to main
+2c6ece0 HEAD@{3}: commit: coom
+2a209a4 HEAD@{4}: commit (merge): coom
+f306a88 HEAD@{5}: checkout: moving from development to development
+f306a88 HEAD@{6}: commit (merge): coom
+07f3e3a HEAD@{7}: checkout: moving from styles to development
+6477be7 HEAD@{8}: commit: coom
+2a08189 HEAD@{9}: commit: coom
+9256141 HEAD@{10}: checkout: moving from styles to styles
+9256141 HEAD@{11}: checkout: moving from images to styles
+cce927d HEAD@{12}: commit: coom
+13c73e2 HEAD@{13}: checkout: moving from images to images
+13c73e2 HEAD@{14}: checkout: moving from images to images
+13c73e2 HEAD@{15}: commit: coom
+264a8c9 HEAD@{16}: commit: coom
+663c2e0 HEAD@{17}: checkout: moving from development to images
+07f3e3a HEAD@{18}: commit: coom
+663c2e0 HEAD@{19}: checkout: moving from main to development
+74e6b26 HEAD@{20}: commit: coom
+663c2e0 HEAD@{21}: checkout: moving from development to main
+663c2e0 HEAD@{22}: checkout: moving from images to development
+663c2e0 HEAD@{23}: checkout: moving from development to images
+663c2e0 HEAD@{24}: checkout: moving from styles to development
+9256141 HEAD@{25}: commit: coom
+663c2e0 HEAD@{26}: checkout: moving from development to styles
+663c2e0 HEAD@{27}: checkout: moving from images to development
+663c2e0 HEAD@{28}: checkout: moving from development to images
+663c2e0 HEAD@{29}: checkout: moving from main to development
+663c2e0 HEAD@{30}: checkout: moving from main to main
+663c2e0 HEAD@{31}: clone: from https://github.com/LuizaDerbida/-DevOps_online_Kharkiv_2021Q2
